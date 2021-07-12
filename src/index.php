@@ -23,9 +23,9 @@
  </head>
  <body>
     <div id="vueapp">
-      <div id="map" class="map"></div>
+      <div id="map" class="map">
+      </div>
     </div>
-  </div>
  </body>
 </html>
 
